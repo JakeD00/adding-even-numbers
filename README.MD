@@ -1,0 +1,1 @@
+# Program that sums up even numbers from 1 to 101.
